@@ -1,0 +1,7 @@
+Placeholder marker assets:
+- marker-low.png (green marker for low risk bins)
+- marker-medium.png (yellow marker for medium risk bins)  
+- marker-high.png (red marker for high risk bins)
+
+Note: Current implementation uses Google Maps SymbolPath.CIRCLE markers instead of image files.
+
