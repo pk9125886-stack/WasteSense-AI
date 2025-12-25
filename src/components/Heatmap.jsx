@@ -33,3 +33,6 @@ export default function Heatmap({ map, data }) {
   return null;
 }
 
+
+
+
